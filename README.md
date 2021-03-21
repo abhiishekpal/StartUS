@@ -1,5 +1,4 @@
-# StartUS
-Assignment for StartUs Insights
+# Solution to task
 
 
 The Project Contains two files:
